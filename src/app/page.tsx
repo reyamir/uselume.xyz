@@ -18,7 +18,7 @@ export default function Home() {
             <h2 className="text-2xl text-zinc-900 dark:text-zinc-100">
               an ambitious nostr client
             </h2>
-            <p className="italic">
+            <p className="italic dark-text-zinc-400 text-zinc-800">
               <span className="text-red-500">*</span> website is under
               development, a stunning landing page coming later
             </p>
@@ -26,7 +26,7 @@ export default function Home() {
           <div className="flex flex-col items-center gap-2">
             <Link
               href="https://github.com/reyamir/lume-desktop/releases/tag/app-v0.2.1"
-              className="shadow-lg shadow-zinc-900/20 hover:bg-zinc-800 hover:dark:bg-zinc-300 font-medium leading-none w-max px-4 h-10 bg-zinc-900 dark:bg-zinc-200 rounded-md inline-flex items-center justify-center text-zinc-100 dark:text-zinc-900"
+              className="shadow-lg shadow-zinc-900/20 dark:shadow-zinc-100/20 hover:bg-zinc-800 hover:dark:bg-zinc-300 font-medium leading-none w-max px-4 h-10 bg-zinc-900 dark:bg-zinc-200 rounded-md inline-flex items-center justify-center text-zinc-100 dark:text-zinc-900"
             >
               Download
             </Link>
