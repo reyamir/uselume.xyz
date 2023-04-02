@@ -25,7 +25,7 @@ export default function Home() {
           </div>
           <div className="flex flex-col items-center gap-2">
             <Link
-              href="https://github.com/reyamir/lume-desktop/releases/tag/app-v0.2.1"
+              href="https://github.com/reyamir/lume-desktop/releases/tag/v0.2.1"
               className="shadow-lg shadow-zinc-900/20 dark:shadow-zinc-100/20 hover:bg-zinc-800 hover:dark:bg-zinc-300 font-medium leading-none w-max px-4 h-10 bg-zinc-900 dark:bg-zinc-200 rounded-md inline-flex items-center justify-center text-zinc-100 dark:text-zinc-900"
             >
               Download
